@@ -26,4 +26,4 @@ Pensado para **alumnado de FP** (DAM, DAW, ASIR, SMR, cursos de especialización
 
 [Web](https://informaticadata.es) · [LinkedIn](https://www.linkedin.com/in/informaticadata-es) · [YouTube](https://www.youtube.com/@informaticadata_es) · [X](https://x.com/infodata_es)
 
-📬 ¿Quieres recibir los próximos proyectos? **[Suscríbete gratis en la web](https://informaticadata.es)**.
+📬 ¿Quieres recibir los próximos proyectos? **[Suscríbete gratis en la web](https://informaticadata.es/#/portal/signup)**.
